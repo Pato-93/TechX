@@ -1,1 +1,215 @@
-# TechX
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>TechX</title>
+
+<style>
+
+body{
+    margin:0;
+    background:#e9e9e9;
+    font-family:Segoe UI, Arial, sans-serif;
+}
+
+.app{
+    max-width:430px;
+    margin:0 auto;
+    background:#f4f4f4;
+    min-height:100vh;
+}
+
+.header{
+    background:white;
+    padding:16px;
+}
+
+.good{
+    font-size:14px;
+    font-weight:700;
+}
+
+.blue{
+    color:#0078D7;
+}
+
+.welcome{
+    font-size:18px;
+    font-weight:700;
+    margin-top:12px;
+}
+
+.powered{
+    margin-top:12px;
+    font-size:12px;
+    font-style:italic;
+}
+
+.line{
+    height:3px;
+    background:#0078D7;
+}
+
+.content{
+    padding:12px;
+}
+
+.card{
+    background:white;
+    border:2px solid #26465A;
+    border-radius:22px;
+
+    margin-bottom:14px;
+
+    padding:12px;
+
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+
+    cursor:pointer;
+}
+
+.card:hover{
+    background:#fafafa;
+}
+
+.left{
+    display:flex;
+    align-items:center;
+}
+
+.icon{
+    font-size:24px;
+    width:36px;
+    margin-right:12px;
+}
+
+.title{
+    font-size:16px;
+    font-weight:700;
+}
+
+.desc{
+    font-size:11px;
+    color:#555;
+    margin-top:3px;
+}
+
+.arrow{
+    font-size:26px;
+    color:#0078D7;
+    font-weight:bold;
+}
+
+.footer{
+    font-size:10px;
+    color:green;
+    padding:8px;
+}
+
+</style>
+</head>
+
+<body>
+
+<div class="app">
+
+    <div class="header">
+
+        <div class="good">
+            Good Evening <span class="blue">, Chris!</span>
+        </div>
+
+        <div class="welcome">
+            Welcome to IAC Group
+        </div>
+
+        <div class="powered">
+            Powered by TechX
+        </div>
+
+    </div>
+
+    <div class="line"></div>
+
+    <div class="content">
+
+        <!-- FIND ASSET -->
+
+        <div class="card"
+             onclick="window.location.href='FindAsset8.html';">
+
+            <div class="left">
+
+                <div class="icon">📁</div>
+
+                <div>
+                    <div class="title">Find Asset</div>
+                    <div class="desc">
+                        Assets Uploaded Into TechX
+                    </div>
+                </div>
+
+            </div>
+
+            <div class="arrow">›</div>
+
+        </div>
+
+        <!-- WORK ORDERS -->
+
+        <div class="card"
+             onclick="window.location.href='EMAINT_LINK_HERE';">
+
+            <div class="left">
+
+                <div class="icon">📋</div>
+
+                <div>
+                    <div class="title">Work Orders</div>
+                    <div class="desc">
+                        Create, Assign or Complete Work Orders
+                    </div>
+                </div>
+
+            </div>
+
+            <div class="arrow">›</div>
+
+        </div>
+
+        <!-- TECHX ASSIST -->
+
+        <div class="card"
+             onclick="window.location.href='AI_LINK_HERE';">
+
+            <div class="left">
+
+                <div class="icon">🔎</div>
+
+                <div>
+                    <div class="title">TechX Assist</div>
+                    <div class="desc">
+                        Troubleshooting and Parts Lookup
+                    </div>
+                </div>
+
+            </div>
+
+            <div class="arrow">›</div>
+
+        </div>
+
+    </div>
+
+    <div class="footer">
+        IAC Group Internal
+    </div>
+
+</div>
+
+</body>
+</html>
