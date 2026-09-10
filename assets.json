@@ -6,11 +6,11 @@
     "ProjectNumber":"3527",
     "QRCode":"test",
     "Photo":"https://iacgrp365-my.sharepoint.com/:i:/g/personal/jesus_cruz_flores_iacgroup_com/IQCdNKclvVylRr6obelXIXGwAbnV_BCV5CvWN3XL-ffGQwU?e=OooqIf",
-    "OEMManual":"PON_AQUI_EL_LINK_OEM",
-    "ElectricalSchematic":"PON_AQUI_EL_LINK_ELECTRICAL",
-    "PneumaticSchematic":"PON_AQUI_EL_LINK_PNEUMATIC",
-    "PLCProgram":"PON_AQUI_EL_LINK_PLC",
-    "RobotProgram":"PON_AQUI_EL_LINK_ROBOT",
-    "ServoProgram":"PON_AQUI_EL_LINK_SERVO"
+    "OEMManual":"https://iacgrp365-my.sharepoint.com/:i:/g/personal/jesus_cruz_flores_iacgroup_com/IQChDtcJvhFCSLwoIFJKTIw8Ab3WHIPAazszF9ha7FdTu-0",
+    "ElectricalSchematic":"https://iacgrp365-my.sharepoint.com/:i:/g/personal/jesus_cruz_flores_iacgroup_com/IQChDtcJvhFCSLwoIFJKTIw8Ab3WHIPAazszF9ha7FdTu-0",
+    "PneumaticSchematic":"https://iacgrp365-my.sharepoint.com/:i:/g/personal/jesus_cruz_flores_iacgroup_com/IQChDtcJvhFCSLwoIFJKTIw8Ab3WHIPAazszF9ha7FdTu-0",
+    "PLCProgram":"https://iacgrp365-my.sharepoint.com/:i:/g/personal/jesus_cruz_flores_iacgroup_com/IQChDtcJvhFCSLwoIFJKTIw8Ab3WHIPAazszF9ha7FdTu-0",
+    "RobotProgram":"https://iacgrp365-my.sharepoint.com/:i:/g/personal/jesus_cruz_flores_iacgroup_com/IQChDtcJvhFCSLwoIFJKTIw8Ab3WHIPAazszF9ha7FdTu-0",
+    "ServoProgram":"https://iacgrp365-my.sharepoint.com/:i:/g/personal/jesus_cruz_flores_iacgroup_com/IQChDtcJvhFCSLwoIFJKTIw8Ab3WHIPAazszF9ha7FdTu-0"
   }
 ]
