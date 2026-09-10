@@ -1,0 +1,16 @@
+[
+  {
+    "AssetID":"3526",
+    "EquipmentName":"Top Roll Assembly",
+    "Manufacturer":"3Con",
+    "ProjectNumber":"3527",
+    "QRCode":"test",
+    "Photo":"PON_AQUI_EL_LINK_DE_LA_FOTO",
+    "OEMManual":"PON_AQUI_EL_LINK_OEM",
+    "ElectricalSchematic":"PON_AQUI_EL_LINK_ELECTRICAL",
+    "PneumaticSchematic":"PON_AQUI_EL_LINK_PNEUMATIC",
+    "PLCProgram":"PON_AQUI_EL_LINK_PLC",
+    "RobotProgram":"PON_AQUI_EL_LINK_ROBOT",
+    "ServoProgram":"PON_AQUI_EL_LINK_SERVO"
+  }
+]
